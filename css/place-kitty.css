@@ -6,10 +6,10 @@
   left: 300;
 }
 
-.kitty-2 {
+#kitty-2 {
   position: absolute;
   z-index: 2;
-  top: 0px;
+  top: 270px;
   left: 300px;
 }
 
