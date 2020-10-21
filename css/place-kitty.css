@@ -34,6 +34,6 @@
 img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
-  top: 270px;
+  top: 0px;
   left: 300px;
 }
